@@ -9,3 +9,5 @@
 [Quick and Dirty Data Analysis with Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
 
 [Exploratory Data Analysis](https://machinelearningmastery.com/understand-problem-get-better-results-using-exploratory-data-analysis/)
+
+[Graphical Plotting with Python Folium](https://medium.com/@madhuramiah/geographic-plotting-with-python-folium-2f235cc167b7)
