@@ -7,3 +7,5 @@
 [What is Machine Learning](https://www.youtube.com/watch?v=f_uwKZIAeM0&t=3s)
 
 [Quick and Dirty Data Analysis with Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
+
+[Exploratory Data Analysis](https://machinelearningmastery.com/understand-problem-get-better-results-using-exploratory-data-analysis/)
