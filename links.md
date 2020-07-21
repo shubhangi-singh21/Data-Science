@@ -6,4 +6,4 @@
 
 [What is Machine Learning](https://www.youtube.com/watch?v=f_uwKZIAeM0&t=3s)
 
-[Quick and Dirt Data Analysis using Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
+[Quick and Dirty Data Analysis with Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
