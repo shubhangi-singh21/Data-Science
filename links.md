@@ -11,3 +11,5 @@
 [Exploratory Data Analysis](https://machinelearningmastery.com/understand-problem-get-better-results-using-exploratory-data-analysis/)
 
 [Graphical Plotting with Python Folium](https://medium.com/@madhuramiah/geographic-plotting-with-python-folium-2f235cc167b7)
+
+[Spatial Visualization and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
