@@ -17,3 +17,5 @@
 📌 [Visualization tutorial using Plotly](https://www.kaggle.com/thebrownviking20/intermediate-visualization-tutorial-using-plotly)
 
 📌 [Intoduction to Geographical Plotting](https://towardsdatascience.com/intro-to-geographical-plotting-237f59fec735)
+
+📌 [GeoJSON Map using GeoPandas](https://medium.com/@h4k1m0u/plot-a-geojson-map-using-geopandas-be89e7a0b93b)
