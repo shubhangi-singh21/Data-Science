@@ -15,3 +15,5 @@
 📌 [Spatial Visualization and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 
 📌 [Visualization tutorial using Plotly](https://www.kaggle.com/thebrownviking20/intermediate-visualization-tutorial-using-plotly)
+
+📌 [Intoduction to Geographical Plotting](https://towardsdatascience.com/intro-to-geographical-plotting-237f59fec735)
