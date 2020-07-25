@@ -4,19 +4,19 @@ This repo covers the following:
 
 ✔ Python for Data Analysis using:
 
-    i. NumPy 
+    a. NumPy 
     
-    ii. Pandas
+    b. Pandas
 
 ✔ Python for Data Visualization using:
 
-    i. Matplotlib
+    a. Matplotlib
     
-    ii. Seaborn
+    b. Seaborn
    
-    iii. Plotly
+    c. Plotly
     
-    iv. Cufflinks
+    d. Cufflinks
 
 
 ✔ Geographical Plotting
