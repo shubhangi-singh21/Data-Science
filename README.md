@@ -1,11 +1,14 @@
-# Data Science
+# Basics of Data Science
 
 This repo covers the following:
 
-1. Python for Data Analysis using NumPy & Pandas
+✔ Python for Data Analysis using
+      i. NumPy  
+     ii. Pandas
 
-2. Python for Data Visualization using Matplotlib, Seaborn, Plotly and Cufflinks
+✔ Python for Data Visualization using Matplotlib, Seaborn, Plotly and Cufflinks
 
-3. Geographical plotting
+
+✔ Geographical plotting
 
 
