@@ -22,4 +22,4 @@
 
 📌 [ML using Logistic Regression using scikit-learn](https://medium.com/@kbrook10/day-10-machine-learning-using-logisticregression-with-scikit-learn-99316e6589cd)
 
-📌 [Geographic Plotting with Python Folium](https://medium.com/@madhuramiah/geographic-plotting-with-python-folium-2f235cc167b7)
+📌 [Geographic Plotting with Python-Folium](https://medium.com/@madhuramiah/geographic-plotting-with-python-folium-2f235cc167b7)
