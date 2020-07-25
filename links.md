@@ -20,4 +20,4 @@
 
 📌 [GeoJSON Map using GeoPandas](https://medium.com/@h4k1m0u/plot-a-geojson-map-using-geopandas-be89e7a0b93b)
 
-📌 [ML using Logistic Regression using Scikit Learn](https://medium.com/@kbrook10/day-10-machine-learning-using-logisticregression-with-scikit-learn-99316e6589cd)
+📌 [ML using Logistic Regression using scikit-learn](https://medium.com/@kbrook10/day-10-machine-learning-using-logisticregression-with-scikit-learn-99316e6589cd)
