@@ -8,7 +8,12 @@ This repo covers the following:
     
     ii. Pandas
 
-✔ Python for Data Visualization using Matplotlib, Seaborn, Plotly and Cufflinks
+✔ Python for Data Visualization using 
+
+    i. Matplotlib
+   ii. Seaborn
+  iii. Plotly
+   iv. Cufflinks
 
 
 ✔ Geographical plotting
