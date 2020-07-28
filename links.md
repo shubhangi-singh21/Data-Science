@@ -25,3 +25,5 @@
 📌 [Geographic Plotting with Python-Folium](https://medium.com/@madhuramiah/geographic-plotting-with-python-folium-2f235cc167b7)
 
 📌 [Data Cleaning](https://github.com/Anpr1211/Interpretable-ML/blob/master/Cervical%20Cancer%20Dataset/Cervical%20Cancer%20Dataset%20-%20Cleaning.ipynb)
+
+📌 [Cancer Dataset](https://github.com/Anpr1211/Interpretable-ML/blob/master/Cervical%20Cancer%20Dataset/Cervical%20Cancer%20Dataset%20-%20Cleaning.ipynb)
