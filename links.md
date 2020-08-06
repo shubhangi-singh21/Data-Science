@@ -37,3 +37,5 @@
 📌 [Dataset-4](https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv)
 
 📌 [Dataset-5](https://archive.ics.uci.edu/ml/machine-learning-databases/00409/Daily_Demand_Forecasting_Orders.csv)
+
+📌 [Dataset-6](https://archive.ics.uci.edu/ml/machine-learning-databases/00409/Daily_Demand_Forecasting_Orders.csv)
