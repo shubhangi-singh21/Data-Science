@@ -6,6 +6,8 @@
 
 📌 [What is Machine Learning](https://www.youtube.com/watch?v=f_uwKZIAeM0&t=3s)
 
+📌 [Introduction to Machine Learning](https://drive.google.com/file/d/1Ef-iLGSs7Z2F_rarN06nEyGjt1pX5ZOp/view?usp=sharing)
+
 📌 [Quick and Dirty Data Analysis with Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
 
 📌 [Exploratory Data Analysis](https://machinelearningmastery.com/understand-problem-get-better-results-using-exploratory-data-analysis/)
