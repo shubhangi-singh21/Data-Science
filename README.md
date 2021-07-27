@@ -1,6 +1,6 @@
 # Basics of Data Science
 
-This repo covers the following:
+This repo contains my hands-on practice on the following topics:
 
 ✔ Python for Data Analysis using:
 
